@@ -15,10 +15,10 @@ author = "佐藤 大輔 <densuke@st.kobedenshi.ac.jp>"
 
 extensions = []
 
-templates_path = ['_templates']
+templates_path = ["_templates"]
 exclude_patterns = []
 
-language = 'ja'
+language = "ja"
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
