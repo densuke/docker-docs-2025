@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'アプリケーション・サーバー構築1 資料'
-copyright = '2025, 佐藤 大輔 <densuke@st.kobedenshi.ac.jp>'
-author = '佐藤 大輔 <densuke@st.kobedenshi.ac.jp>'
+project = "アプリケーション・サーバー構築1 資料"
+copyright = "2025, 佐藤 大輔 <densuke@st.kobedenshi.ac.jp>"
+author = "佐藤 大輔 <densuke@st.kobedenshi.ac.jp>"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -24,4 +24,4 @@ language = 'ja'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
-html_static_path = ['_static']
+html_static_path = ["_static"]
